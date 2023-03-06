@@ -1,2 +1,4 @@
-my effort
-im a software Engineer 
+
+My first readme
+
+
